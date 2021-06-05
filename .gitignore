@@ -1,0 +1,22 @@
+bin
+gen
+out
+lib
+
+.idea
+*.iml
+classes
+
+obj
+
+.DS_Store
+
+# Gradle
+.gradle
+jniLibs
+build
+local.properties
+reports
+.gradle/6.7.1/vcsMetadata-1/
+app/libs/
+build/
